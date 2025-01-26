@@ -15,12 +15,12 @@ extra_css:
 nav:  
   - Índice: 'index.md'  
   - Unidad 4:  
-      - 4.1 Introducción:   
-          - 'u04/u04_01.md'  
-          - 4.1.1 WP-ORG vs WP-COM: 'u04/u04_01-01.md'  # Asegúrate de que el archivo existe  
-          - 4.1.2 Dominios y Hosting: 'u04/u04_01-02.md'  # Asegúrate de que el archivo existe  
-      - 4.2 Interfaz de WP:   
-          - 'u04/u04_02.md'  # Asegúrate de que el archivo existe  
-          - 4.2.1 Panel de Administración: 'u04/u04_02-01.md'  # Asegúrate de que el archivo existe  
-          - 4.2.2 Barra Superior: 'u04/u04_02-02.md'  # Asegúrate de que el archivo existe
+      - 4.1 Conceptos Básicos:   
+          - 4.1.2 Introducción: 'u04/u04_01-01.md'
+          - 4.1.2 WP-ORG vs WP-COM: 'u04/u04_01-02.md'  
+          - 4.1.3 Dominios y Hosting: 'u04/u04_01-03.md'  
+      - 4.2 Primeros Pasos:   
+          - 4.2.1 Interfaz de WP: 'u04/u04_02-01.md'
+          - 4.2.1 Panel de Administración: 'u04/u04_02-02.md'  
+          - 4.2.2 Barra Superior: 'u04/u04_02-03.md'
 
