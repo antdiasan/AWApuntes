@@ -34,24 +34,6 @@ h4 {
     border-top: 1px solid #ddd;
 }
 
-
-
-/* Aplica color bermellón a cualquier texto que esté en cursiva y negrita */
-strong em, em strong {
-    color: #7a0b0b;  /* Bermellón */
-    font-weight: bold;  /* Negrita */
-    font-style: italic;  /* Cursiva */
-}
-
-/* Estilo personalizado para citas */
-.custom-quote {
-    background-color: #f0f0f0; /* Color de fondo */
-    border-left: 5px solid #95a4df; /* Borde izquierdo rojo */
-    padding: 10px 20px;
-    color: #111caa; /* Color del texto */
-    font-style: italic; /* Opcional, para hacerlo cursivo */
-}
-
 /* Estilo del bloque de código */
 pre {
     background-color: #f4f4f4;  /* Fondo del bloque de código */
@@ -67,4 +49,3 @@ pre code {
     color: #333;                 /* Color del texto */
     background: none;            /* Elimina el fondo extra para el código dentro del bloque */
 }
-
