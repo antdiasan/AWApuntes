@@ -20,8 +20,15 @@ nav:
           - 4.1.2 Introducción: 'u04/u04_01-01.md'
           - 4.1.2 WP-ORG vs WP-COM: 'u04/u04_01-02.md'  
           - 4.1.3 Dominios y Hosting: 'u04/u04_01-03.md'  
-      - 4.2 Primeros Pasos:   
-          - 4.2.1 Interfaz de WP: 'u04/u04_02-01.md'
-          - 4.2.1 Panel de Administración: 'u04/u04_02-02.md'  
-          - 4.2.2 Barra Superior: 'u04/u04_02-03.md'
+      - 4.2 Interfaz de WP:  
+          - 4.2.1 Introducción: 'u04/u04_02-01.md'
+          - 4.2.2 Panel de Administración: 'u04/u04_02-02.md'  
+          - 4.2.3 Barra Superior: 'u04/u04_02-03.md'
+          - 4.2.4 Menú Lateral: 'u04/u04_02-04.md'
+          - 4.2.5 Área de Trabajo: 'u04/u04_02-05.md'
+          - 4.2.6 Pie de Página: 'u04/u04_02-06.md'
+      - 4.3 Editor de Contenido y Gestión:
+          - 4.3.1 Editor de Contenido: 'u04/u04_03-01.md'
+          - 4.3.2 Peronalización del Sitio: 'u04/u04_03-02.md'
+
 
