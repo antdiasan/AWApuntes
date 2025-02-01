@@ -17,11 +17,11 @@ nav:
   - Índice: 'index.md'  
   - Unidad 4:  
       - 4.1 Conceptos Básicos:   
-          - 4.1.2 Introducción: 'u04/u04_01-01.md'
-          - 4.1.2 WP-ORG vs WP-COM: 'u04/u04_01-02.md'  
-          - 4.1.3 Dominios y Hosting: 'u04/u04_01-03.md'  
+          - 4.1.1 Introducción: 'u04/04-01-01.md'
+          - 4.1.2 WP-ORG vs WP-COM: 'u04/04-01-02.md'  
+          - 4.1.3 Dominios y Hosting: 'u04/04-01-03.md'  
       - 4.2 Interfaz de WP:  
-          - 4.2.1 Introducción: 'u04/u04_02-01.md'
+          - 4.2.1 Introducción: 'u04/04-02-01.md'
           - 4.2.2 Panel de Administración: 'u04/u04_02-02.md'  
           - 4.2.3 Barra Superior: 'u04/u04_02-03.md'
           - 4.2.4 Menú Lateral: 'u04/u04_02-04.md'
